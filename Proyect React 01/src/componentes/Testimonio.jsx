@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; // Importacion de react
 import '../css/Testimonio.css';
 
 function Testimonio(props) {
@@ -12,7 +12,7 @@ function Testimonio(props) {
 			</div>
 		</div>
 	);
-}
+} 
 // Exportacion por defecto:
 
 export default Testimonio;
